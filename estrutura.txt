@@ -1,0 +1,21 @@
+Listagem de caminhos de pasta
+O n£mero de s‚rie do volume ‚ D648-E4AF
+C:.
+³   .gitattributes
+³   estrutura.txt
+³   LICENSE
+³   README.md
+³   
+ÃÄÄÄpraticas
+³       p01.py
+³       p02.py
+³       p03.py
+³       p04.py
+³       p05.py
+³       p06.py
+³       p07.py
+³       p08.py
+³       
+ÀÄÄÄsabor-express
+        app.py
+        
