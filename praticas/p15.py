@@ -1,3 +1,5 @@
+# 7 - Construa um código que calcule a média dos valores em uma lista. Utilize um bloco try-except para lidar com a divisão por zero, caso a lista esteja vazia.
+
 lista_valores = [15, 20, 25, 30]
 soma_valores = 0
 
