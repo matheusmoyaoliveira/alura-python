@@ -17,7 +17,7 @@ print(livro1)
 print(livro2)
 
 # 3) Adicione um método de instância chamado emprestar à classe Livro que define o atributo disponivel como False. Crie uma instância da classe, chame o método emprestar e imprima se o livro está disponível ou não.
-    def emprestar(self):
+def emprestar(self):
         self.disponivel = False
 
 livro3 = Livro("Python Cookbook", "Samuel Developer", 2019)
