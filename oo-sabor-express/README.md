@@ -1,20 +1,18 @@
-# 🧾 Sabor Express (versão Orientada a Objetos)
+# 🍽️ Sabor Express (Orientado a Objetos)
 
-Versão refatorada do projeto `sabor-express`, agora utilizando os princípios da **Programação Orientada a Objetos (POO)** em Python.
-
-O projeto mantém as funcionalidades de gerenciamento de restaurantes com melhorias na organização, reutilização e manutenção do código.
+Este projeto é uma versão refatorada do `sabor-express`, utilizando os princípios da **Programação Orientada a Objetos (POO)** em Python. A estrutura modular facilita o entendimento e a manutenção do código.
 
 ---
 
 ## 🚀 Tecnologias Utilizadas
 
-- Python 3.x
-- Programação Orientada a Objetos (POO)
-- VS Code
+- 🐍 Python 3.x
+- 🔄 Paradigma: Orientação a Objetos
+- 📁 Módulos e pacotes Python
 
 ---
 
-## 📁 Estrutura
+## 📂 Estrutura
 
 ```
 oo-sabor-express/
@@ -22,30 +20,24 @@ oo-sabor-express/
 └── modelos/
     ├── __init__.py
     ├── restaurante.py
-    └── ... (demais modelos e classes)
+    └── ... (outras classes)
 ```
 
 ---
 
 ## 🎯 Funcionalidades
 
-- Cadastrar e listar restaurantes
-- Alternar o status (ativo/inativo)
-- Separação por classes e arquivos para manter o código organizado
-- Abordagem prática de encapsulamento e responsabilidade única
+- Cadastro e listagem de restaurantes
+- Alternância de status (ativo/inativo)
+- Código orientado a objetos (classes, atributos, métodos)
+- Separação de responsabilidades por módulo
 
 ---
 
 ## ▶️ Como Executar
 
-1. Clone o repositório:
 ```bash
-git clone https://github.com/matheusmoyaoliveira/alura-python.git
-cd alura-python/oo-sabor-express
-```
-
-2. Execute o programa:
-```bash
+cd oo-sabor-express
 python app.py
 ```
 
