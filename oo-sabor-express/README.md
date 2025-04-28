@@ -1,50 +1,30 @@
-# 🍽️ Sabor Express (Orientado a Objetos)
+# 🍽️ OO Sabor Express
 
-Este projeto é uma versão refatorada do `sabor-express`, utilizando os princípios da **Programação Orientada a Objetos (POO)** em Python. A estrutura modular facilita o entendimento e a manutenção do código.
-
----
+Este projeto é uma continuação prática utilizando **Programação Orientada a Objetos (POO)** em Python, simulando um sistema de pedidos de um restaurante fictício chamado "Sabor Express".
 
 ## 🚀 Tecnologias Utilizadas
+- Python 3.x
 
-- 🐍 Python 3.x
-- 🔄 Paradigma: Orientação a Objetos
-- 📁 Módulos e pacotes Python
+## 📚 Conteúdo Aplicado
+- Criação de classes (`Cliente`, `Pedido`, `Produto`, etc.)
+- Instanciação de objetos
+- Encapsulamento de dados
+- Métodos personalizados para gerenciar pedidos e clientes
 
----
+## 📁 Estrutura do Projeto
+- `cliente.py`: Definição da classe Cliente
+- `pedido.py`: Definição da classe Pedido
+- `produto.py`: Definição da classe Produto
+- `main.py`: Execução principal para simular o restaurante
 
-## 📂 Estrutura
-
-```
-oo-sabor-express/
-├── app.py
-└── modelos/
-    ├── __init__.py
-    ├── restaurante.py
-    └── ... (outras classes)
-```
-
----
-
-## 🎯 Funcionalidades
-
-- Cadastro e listagem de restaurantes
-- Alternância de status (ativo/inativo)
-- Código orientado a objetos (classes, atributos, métodos)
-- Separação de responsabilidades por módulo
+## 🧠 Aprendizados
+- Melhor compreensão de POO no Python
+- Organização de código usando conceitos de classes
+- Simulação de interações reais de negócio
 
 ---
 
-## ▶️ Como Executar
+🧑‍💻 **Autor:**  
+Matheus Moya Oliveira  
+[LinkedIn](https://www.linkedin.com/in/matheusmoyaoliveira/) | [GitHub](https://github.com/matheusmoyaoliveira)
 
-```bash
-cd oo-sabor-express
-python app.py
-```
-
----
-
-## 🧑‍💻 Autor
-
-**Matheus Moya Oliveira**  
-🔗 [LinkedIn](https://www.linkedin.com/in/matheusmoyaoliveira/)  
-🐙 [GitHub](https://github.com/matheusmoyaoliveira)
