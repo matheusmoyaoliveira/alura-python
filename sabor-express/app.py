@@ -17,7 +17,7 @@ def exibir_nome_do_programa():
 ╚═════╝░╚═╝░░╚═╝╚═════╝░░╚════╝░╚═╝░░╚═╝  ╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝░░╚═╝╚══════╝╚═════╝░╚═════╝░
 ''')
 
-def exibir_opçoes():
+def exibir_opcoes():
     ''' Exibe as opções disponíveis no menu principal '''
 
     print('1. Cadastrar restaurante')
@@ -153,7 +153,7 @@ def main():
 
     os.system('cls')
     exibir_nome_do_programa()
-    exibir_opçoes()
+    exibir_opcoes()
     escolher_opçoes()
 
 if __name__ == '__main__':
